@@ -1,9 +1,7 @@
 ############################################################
 # The following code implements multi-bit watermarking     #
 # algorithm DISC from "Multi-Bit Distortion-Free           #
-# Watermarking for Large Language Models", authored by     #
-# Kordi, et al. (George Mason University,                  #
-# mkordibo@gmu.edu).                                       #
+# Watermarking for Large Language Models",                   #
 #                                                          #
 # It also implements Algorithm 3 from "Excuse me, sir?     #
 # Your language model is leaking (information)", authored  #
