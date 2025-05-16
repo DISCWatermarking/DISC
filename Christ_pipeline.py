@@ -684,7 +684,6 @@ if __name__ == '__main__':
     # prompt_path = "./data/alpaca_data.json"
     # prompt_type = "alpaca"
     nsamples = 1
-    pre_path = "../../../../../../mkordibo/llama"
     # build model
     if model_name == "llama-7b":
         model_name = "huggyllama/llama-7b"#"meta-llama/Llama-2-7b-hf"
